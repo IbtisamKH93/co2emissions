@@ -6,7 +6,7 @@ Python program was used to perform data analysis
 ## Data 
 owid-co2-data.csv file belongs to owid repository (Our World in Data), https://github.com/owid/co2-data. The owid-co2-data.csv file was downloaded from Our World in Data on 03/29/2023.
 ##  Data Processing
-Loc function was significant in clearing the data; it narrowed down massive information to the required piece of information needed in the analysis as shown in Ibtisam MATH 2315 Lab 1. 
+CO2 data were imported from owid repository using Pandas library. The data set was refined by loc function and it was graphed using Seaborn library to generate histograms, boxplots, and other plots. Loc function was significant in clearing the data; it narrowed down massive information to the required piece of information needed in the analysis as shown in Ibtisam MATH 2315 Lab 1. 
 ## Authors 
 Ibtisam Alkhawfi
 ## License

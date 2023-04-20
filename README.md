@@ -1,5 +1,5 @@
 # co2emissions (Lab 1 - Ibtisam)
-## Discription 
+## Description 
 This project describes the CO2 emission levels in the top 10 countries for the last 50 years. Python with imported libraries such as Seaborn and pandas was used to analyze the data. Plots were produced such as a histogram and a box plot to summarize the results of examining the inputs.
 ## Requirements
 Python program was used to perform data analysis
